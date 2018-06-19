@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Defining Roles
 
 ## Abstract
@@ -26,6 +25,3 @@ The Notebook itself will take a more playful and conversational tone as we explo
 \* resources: **gold** to be exchanged for items; **experience** to unlock additional, or higher ranked skills and abilities.
 
 [1]: https://news.unikrn.com/article/eg-mineski-natures-prophet-furion-support-dota-2
-=======
-# dota-role-definitions
->>>>>>> c8ec00cc62e46e32fc6922595cf422924c8b6557
